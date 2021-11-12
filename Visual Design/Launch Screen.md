@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://github.com/kane-young/H.I.G-reading-record/Images/LaunchScreen1.png" width = "550">
+<img src= "https://raw.githubusercontent.com/kane-young/H.I.G-reading-record/main/Images/LaunchScreen1.png" width = "550">
 
 <br>
 
@@ -38,7 +38,7 @@ iOS 14 이후부터는, `Launch Screen`의 크기가 25 MB로 제한된다.
 
 # 요약
 
-<img src="https://github.com/kane-young/H.I.G-reading-record/Images/AssetLaunchScreen.png" width = "600">
+<img src="https://raw.githubusercontent.com/kane-young/H.I.G-reading-record/main/Images/AssetLaunchScreen.png" width = "600">
 
 <br>
 
